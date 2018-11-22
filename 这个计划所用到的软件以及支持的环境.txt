@@ -1,0 +1,14 @@
+这个计划的需要的软件有下面这几个, 考虑到计划的公开性, 我们尽可能的使用了开源软件
+The software required for this program has the following. 
+Considering the openness of the plan, we use open source software whenever possible.
+
+考虑到这些软件的向前兼容性, 我们鼓励你使用最新版本的软件
+Considering the forward compatibility of these software,
+ we encourage you to use the latest version of the software.
+
+1 autocad 2012 
+2 libreoffice
+3 freemind
+4 microsoft word ( which I try to expire this software, but it just a little impossible)
+
+
